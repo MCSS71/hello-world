@@ -6,5 +6,7 @@ Afinal era aqui
 
 Isto é um teste.
 Nunca usei isto.
-Vou ali já venho.
+Fui ali já vim.
+
+E agora?
 
